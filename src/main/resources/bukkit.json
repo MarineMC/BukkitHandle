@@ -1,3 +1,4 @@
 {
-  "bukkit_version": "Fake Shizzle"
+  "name": "Fake Bukkit",
+  "version": "1.7.whatever"
 }
